@@ -7,8 +7,19 @@ import * as Plugin from "./quartz/plugins"
  * See https://quartz.jzhao.xyz/configuration for more information.
  */
 const config: QuartzConfig = {
+  siteMetadata: {
+    title: "Bayesically",
+    description: "Exploring probability, plausibility, and occasionally nonsense.",
+    author: "Bayesically",
+    homepage: "https://bayesically.github.io",
+    logo: "/logo.png",
+    social: {
+      youtube: "Bayesically",
+      reddit: "Bayesic_AF",
+    },
+  },
   configuration: {
-    pageTitle: "Quartz 4",
+    pageTitle: "Bayesically",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
@@ -34,8 +45,8 @@ const config: QuartzConfig = {
           gray: "#b8b8b8",
           darkgray: "#4e4e4e",
           dark: "#2b2b2b",
-          secondary: "#284b63",
-          tertiary: "#84a59d",
+          secondary: "#cc0066",
+          tertiary: "#e98b00",
           highlight: "rgba(143, 159, 169, 0.15)",
           textHighlight: "#fff23688",
         },
@@ -45,8 +56,8 @@ const config: QuartzConfig = {
           gray: "#646464",
           darkgray: "#d4d4d4",
           dark: "#ebebec",
-          secondary: "#7b97aa",
-          tertiary: "#84a59d",
+          secondary: "#ff3388",
+          tertiary: "#f0a44b",
           highlight: "rgba(143, 159, 169, 0.15)",
           textHighlight: "#b3aa0288",
         },
