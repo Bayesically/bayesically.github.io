@@ -24,7 +24,8 @@ const config: QuartzConfig = {
     enableSPA: true,
     enablePopovers: true,
     analytics: {
-      provider: "plausible",
+      provider: "goatcounter",
+      websiteId: "bayesically",
     },
     locale: "en-US",
     baseUrl: "quartz.jzhao.xyz",
@@ -63,7 +64,7 @@ const config: QuartzConfig = {
         },
       },
     },
-  },
+  }
   plugins: {
     transformers: [
       Plugin.FrontMatter(),
