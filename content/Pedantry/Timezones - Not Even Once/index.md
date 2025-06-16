@@ -57,6 +57,6 @@ Using that comparison with the USA (just the contiguous part), the USA splits th
 
 This means there's a complex and nuanced disagreement in Xinjiang regarding the usage of Beijing time and Xinjiang time (https://en.wikipedia.org/wiki/Xinjiang_Time?utm_source=chatgpt.com) which I won't delve into as my sarcasm probably won't do the discussion justice.
 
-To take a lighthearted approach - Were English southerners to move to Xinjiang where noon occurs at 3:15pm, and English northerners were to move to Beijing (noon ~ 12:00pm), the English would finally all be eating dinner at the same time?
+To take a lighthearted approach - Were English southerners to move to Xinjiang where noon occurs at 3:15pm, and English northerners were to move to Eastern China (noon ~ 11:15am), the English would finally all be eating dinner at the same time?
 
 ![[utc_plus_8_zoomed.png]]

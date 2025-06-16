@@ -17,8 +17,11 @@ Sweden vs Denmark -> SWE-DEN
 How about we get a big list of all the three-letter country codes in use by FIFA and brute force check them all?
 
 Anyway here are the other options:
+
 Cyprus vs Russia -> CYP-RUS
+
 Poland vs Andorra -> POL-AND
+
 Bhutan vs Tanzania -> BHU-TAN
 
 ## Level 2 (Data Goblin)
