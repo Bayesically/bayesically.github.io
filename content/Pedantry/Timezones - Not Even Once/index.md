@@ -55,7 +55,7 @@ China is about as large East-West as the USA. Every part of China officially use
 
 Using that comparison with the USA (just the contiguous part), the USA splits this up into 4 timezones (Eastern/Central/Mountain/Pacific) which accounts for the 60°+ of spherical geometry. I'm sure anyone who's tried to watch national analogue television broadcasts in the USA is aware that doing the math(s) is a bit of a headache. I was once on holiday in the USA and missed the Simpsons because we crossed a state border. It's still a sore spot.
 
-This means there's a complex and nuanced disagreement in Xinjiang regarding the usage of Beijing time and Xinjiang time (https://en.wikipedia.org/wiki/Xinjiang_Time?utm_source=chatgpt.com) which I won't delve into as my sarcasm probably won't do the discussion justice.
+This means there's a complex and nuanced disagreement in Xinjiang regarding the usage of Beijing time and Xinjiang time (https://en.wikipedia.org/wiki/Xinjiang_Time) which I won't delve into as my sarcasm probably won't do the discussion justice.
 
 To take a lighthearted approach - Were English southerners to move to Xinjiang where noon occurs at 3:15pm, and English northerners were to move to Eastern China (noon ~ 11:15am), the English would finally all be eating dinner at the same time?
 
