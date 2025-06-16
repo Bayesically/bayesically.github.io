@@ -8,4 +8,4 @@ Quality not guaranteed.
 
 ## Recent Posts
 
-{% recentPages limit:5 %}
+<RecentPages limit="5" />
