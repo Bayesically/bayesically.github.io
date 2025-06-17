@@ -1,6 +1,6 @@
 ---
 title: "SWE-DEN"
-published: 2025-06-16
+date: 2025-06-16
 tags: [football, countries, pedantry]
 draft: false 
 ---

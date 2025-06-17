@@ -1,6 +1,6 @@
 ---
 title: "Michael Johnson Can't Save Track"
-published: 2025-06-16
+date: 2025-06-16
 tags: [small hills, track, track and field, athletics]
 draft: false 
 ---

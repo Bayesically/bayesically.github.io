@@ -1,6 +1,6 @@
 ---
 title: "Timezones - Not Even Once"
-published: 2025-06-15
+date: 2025-06-15
 tags: [countries, timezones, pedantry]
 draft: false 
 ---
